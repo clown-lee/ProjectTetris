@@ -1,0 +1,7 @@
+﻿  Tetris.cpp
+  main.cpp
+D:\备份\Download\VSrepos\ProjectTetris\ProjectTetris\Tetris.cpp(51,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+D:\备份\Download\VSrepos\ProjectTetris\ProjectTetris\Tetris.cpp(57,7): warning C4101: “data”: 未引用的局部变量
+D:\备份\Download\VSrepos\ProjectTetris\ProjectTetris\Tetris.cpp(236,11): warning C4244: “初始化”: 从“unsigned __int64”转换到“int”，可能丢失数据
+  正在生成代码...
+  ProjectTetris.vcxproj -> D:\备份\Download\VSrepos\ProjectTetris\x64\Debug\ProjectTetris.exe
